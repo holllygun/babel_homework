@@ -1,0 +1,20 @@
+{
+  "name": "second_hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holllygun/babel_homework.git"
+  },
+  "author": "Anastasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holllygun/babel_homework/issues"
+  },
+  "homepage": "https://github.com/holllygun/babel_homework#readme",
+  "description": ""
+}
