@@ -16,5 +16,10 @@
     "url": "https://github.com/holllygun/babel_homework/issues"
   },
   "homepage": "https://github.com/holllygun/babel_homework#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7"
+  }
 }
